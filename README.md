@@ -5,7 +5,7 @@ javac Hello
 
 rmic Hello
 
-start rmiregistry
+#start rmiregistry
 rmiregistry &
 
 #start server
